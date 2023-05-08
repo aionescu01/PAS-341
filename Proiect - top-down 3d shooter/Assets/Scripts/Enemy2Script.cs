@@ -48,7 +48,7 @@ public class Enemy2Script : MonoBehaviour
             enemyGunScript.Shoot();
         }
 
-        MoveEnemy();
+        //MoveEnemy();
 
         // daca inamicul a murit, ii oprim miscarea (ca sa nu mai vina spre player in timpul animatiei de moarte)
         if (currentHealth <= 0) 

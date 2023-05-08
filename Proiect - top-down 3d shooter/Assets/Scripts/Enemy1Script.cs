@@ -43,7 +43,7 @@ public class Enemy1Script : MonoBehaviour
         //MoveEnemy();
         distanceToPlayer = Vector3.Distance(transform.position, target.position);
 
-        // if the enemy has dies, we stop its movement(so that it won't follow the player after death)
+        // if the enemy has died, we stop its movement(so that it won't follow the player after death)
         if (currentHealth <= 0)
         {
             movementSpeed = 0.0f;
