@@ -22,7 +22,7 @@ Dijmarescu Cristina Maria - Game Developer
 
 Ioan Tudor Alexandru - Game Developer
 
-Paul Martinas - Game Developer
+Martinas Paul - Game Developer
 
 Roman Andrei Marian - Game Developer
 
