@@ -8,7 +8,6 @@ Pentru a testa jocul nostru trebuie sa urmati urmatorii pasi:
 1. Accesati linkul https://mega.nz/file/ojIBnZBa#Tp5E196xJqcLOgrl53xlToC6-Md_l2Oyagxu3zQr7k0 si descarcati arhiva jocului
 2. Dezarhivati fisierele
 3. Deschideti aplicatia Apocalypse 2023 The Battle for Info City
-![image](https://user-images.githubusercontent.com/77104179/212570864-36fa07cb-c853-4402-bfed-0eb6ea69a8f4.png)
 
 
 ## ECHIPA
@@ -23,6 +22,8 @@ Dijmarescu Cristina Maria - Game Developer
 Ioan Tudor Alexandru - Game Developer
 
 Martinas Paul - Game Developer
+
+Mitrica Octavian - Game Developer
 
 Roman Andrei Marian - Game Developer
 
