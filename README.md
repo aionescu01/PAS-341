@@ -13,15 +13,16 @@ Pentru a testa jocul nostru trebuie sa urmati urmatorii pasi:
 
 ## ECHIPA
 
-Dijmarescu Cristina Maria - Team Leader
 
-Avian Silviu Gabriel - Senior Coder
+Avian Silviu Gabriel - Team Leader
+
+Ionescu Alexandru - Senior Coder
+
+Dijmarescu Cristina Maria - Game Developer
 
 Ioan Tudor Alexandru - Game Developer
 
-Ionescu Alexandru - Game Developer
-
-Mitrica Octavian - Game Developer
+Paul Martinas - Game Developer
 
 Roman Andrei Marian - Game Developer
 
