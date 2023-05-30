@@ -5,7 +5,7 @@
 ## DESCARCARE JOC
 
 Pentru a testa jocul nostru trebuie sa urmati urmatorii pasi:
-1. Accesati linkul https://mega.nz/file/ojIBnZBa#Tp5E196xJqcLOgrl53xlToC6-Md_l2Oyagxu3zQr7k0 si descarcati arhiva jocului
+1. Accesati linkul https://mega.nz/file/Z3xnwRJA#GKyeCL9z8CpVmGSQZDEuV9cd8arm5VhjV3cGrYD6scY si descarcati arhiva jocului
 2. Dezarhivati fisierele
 3. Deschideti aplicatia Apocalypse 2023 The Battle for Info City
 
